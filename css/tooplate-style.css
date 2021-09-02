@@ -11,7 +11,7 @@ http://www.tooplate.com/view/2106-soft-landing
   body {
     font-family: 'Open Sans', sans-serif;
     overflow-x: hidden;
-    background: #f9f9f9;
+    background:  #b6371c;
   }
 
 
@@ -52,7 +52,7 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   a {
-    color: #202020;
+    color:  #031d18;
     text-decoration: none !important;
   }
 
@@ -273,7 +273,7 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .custom-navbar .navbar-toggle .icon-bar {
-    background: #29ca8e;
+    background:  #031d18;
     border-color: transparent;
   }
 
